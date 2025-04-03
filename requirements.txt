@@ -1,0 +1,12 @@
+#환경설정 파일
+flask>=2.0.0
+flask-cors>=3.0.0
+requests>=2.31.0
+mysql-connector-python>=8.0.0
+python-dotenv>=0.19.0
+langchain>=0.1.0
+chromadb>=0.4.22
+pypdf>=3.17.1
+pillow>=10.2.0
+ollama>=0.1.6
+langchain-community>=0.0.19

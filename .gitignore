@@ -1,0 +1,8 @@
+config.py
+__pycache__
+chroma_db
+byaldi_index
+*.jpg
+json.txt
+poppler-24.08.0
+json_updated.txt
